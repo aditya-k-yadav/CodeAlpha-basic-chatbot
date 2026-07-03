@@ -1,0 +1,7 @@
+# Basic Chatbot - Requirements
+# This project uses only Python's built-in standard library.
+# No external packages need to be installed.
+#
+# Standard library modules used: none beyond built-ins (input/print, string methods)
+#
+# Minimum Python version: 3.6+
